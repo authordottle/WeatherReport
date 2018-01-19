@@ -27,8 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 "Tmr Cloudy",
                 "Today Sunny",
                 "Tmr Cloudy",
-                "Today Sunny",
-                "Tmr Cloudy",
+
         };
 
 
